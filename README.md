@@ -1,4 +1,6 @@
-```python
+<h2>For the 3rd trial, I have tried for higher rotation transformation for the train dataset and center crop with probability of 0.1 and size 22.  <\h2>
+
+
 Performing the crop and higher rotation from 7 degree to 15 degree on train dataset
 The center crop is done with probability of 0.1 and size of 22. 
 
